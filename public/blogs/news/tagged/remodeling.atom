@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://theme236-wood-finishes.myshopify.com/blogs/news.atom</id>
+  <link rel="alternate" type="text/html" href="https://theme236-wood-finishes.myshopify.com/blogs/news"/>
+  <link rel="self" type="application/atom+xml" href="https://theme236-wood-finishes.myshopify.com/blogs/news/tagged/remodeling.atom"/>
+  <title>WOODWORK - Blog</title>
+  <updated>2016-03-01T03:42:30-05:00</updated>
+  <author>
+    <name>WOODWORK</name>
+  </author>
+  <entry>
+    <id>https://theme236-wood-finishes.myshopify.com/blogs/news/90457089-modern-wooden-furniture</id>
+    <published>2016-03-01T03:42:30-05:00</published>
+    <updated>2016-03-01T03:42:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theme236-wood-finishes.myshopify.com/blogs/news/90457089-modern-wooden-furniture"/>
+    <title>Modern Wooden Furniture</title>
+    <author>
+      <name>David Braun</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p>Tables that look like trees are all the rage. Take a twist on the timber trend with this selection of beautiful wood—and wood-inspired—home and design pieces.</p>
+<p style="text-align: left;">Our products are divided in accordance with these two main principles and in accordance with the following use of a wooden item. Thus you will <strong>easily find the needed product just following our categories</strong> which will be your guiding lines to the very finish you are looking for. </p>
+<p>Every finish contains chemicals that can be dangerous if you don't know the main principles of work and don't prevent yourself from their influence. Specially for your safety we offer the needed accessories and protecting clothes. They will make your work easier and minimize the risk of the negative factors.</p>
+<p>Our Wood Finishes Store will become your reliable assistant offering goods of a premium quality and the leading trading marks.</p>]]>
+    </content>
+  </entry>
+</feed>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://theme236-wood-finishes.myshopify.com/blogs/news.atom</id>
+  <link rel="alternate" type="text/html" href="https://theme236-wood-finishes.myshopify.com/blogs/news"/>
+  <link rel="self" type="application/atom+xml" href="https://theme236-wood-finishes.myshopify.com/blogs/news/tagged/decorating.atom"/>
+  <title>WOODWORK - Blog</title>
+  <updated>2016-03-01T03:42:30-05:00</updated>
+  <author>
+    <name>WOODWORK</name>
+  </author>
+  <entry>
+    <id>https://theme236-wood-finishes.myshopify.com/blogs/news/90456897-basic-woodturning-tools-and-equipment</id>
+    <published>2016-03-01T03:40:30-05:00</published>
+    <updated>2016-03-01T03:40:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://theme236-wood-finishes.myshopify.com/blogs/news/90456897-basic-woodturning-tools-and-equipment"/>
+    <title>Basic Woodturning Tools and Equipment</title>
+    <author>
+      <name>David Braun</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p>This is the list of tools you need to check-off if you are a first time lathe buyer.</p>
+<p style="text-align: left;"><strong>Our Wood Finishes Store offers a wide range of all possible finishes and we will help you choose the needed one</strong></p>
+<p>We have finishes to dry the wood inside (penetrating finishes) and on the surface (surface finishes). Our products are divided in accordance with these two main principles and in accordance with the following use of a wooden item. Thus you will easily find the needed product just following our categories which will be your guiding lines to the very finish you are looking for. </p>
+<ol>
+<li>We observe only branded commodities policy</li>
+<li>You can buy the premium quality goods at a fair price</li>
+<li>Our company cares about the clients and never lets them down</li>
+</ol>
+<p>Every finish contains chemicals that can be dangerous if you don't know the main principles of work and don't prevent yourself from their influence. Specially for your safety we offer the needed accessories and protecting clothes.</p>
+<p>They will make your work easier and minimize the risk of the negative factors. All equipment is professionally tested and meets safety norms and standards. Don't underestimate the role of a good finish as it is one of the basic elements of your wooden surface look.</p>]]>
+    </content>
+  </entry>
+</feed>
